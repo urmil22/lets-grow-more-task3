@@ -1,0 +1,35 @@
+body{
+    background-color: #cfd9df;
+}
+
+label{
+    width: 100px;
+    display: inline-block;
+}
+
+input {
+    width: 15rem;
+    
+}
+
+
+
+table {
+    border-collapse: collapse;
+    width: 60%;
+    margin-top: 20px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 4px;
+}
+
+button {
+    width: 7%;
+    background-color: white;
+    font-size: 1rem;
+    cursor: pointer;
+}
